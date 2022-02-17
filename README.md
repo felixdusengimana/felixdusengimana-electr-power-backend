@@ -1,6 +1,18 @@
-# Getting Started with Application
+### Testing
 
-1. Clone this project
-2. After run `npm intall or npm i`
-3. For running tests run command `npm test`
-5. For viewing the web page go to: `http://localhost:3000/`
+## Getting started
+
+- Clone the repository:
+- Install the dependencies:
+- Run this command
+
+```bash
+pnpm install
+npx prisma migrate dev --name init
+```
+
+- For running tests you can use the following command:
+
+```bash
+   pnpm test:watch
+```
