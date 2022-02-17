@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/veritem/tdd-nodejs.git"
+    "url": "git+https://github.com/phelixdusengimana/felixdusengimana-electr-power-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/veritem/tdd-nodejs/issues"
+    "url": "https://github.com/veritem/tdd-nodejshttps://github.com/phelixdusengimana/felixdusengimana-electr-power-backend/issues"
   },
-  "homepage": "https://github.com/veritem/tdd-nodejs#readme",
+  "homepage": "https://github.com/phelixdusengimana/felixdusengimana-electr-power-backend#readme",
   "dependencies": {
     "@prisma/client": "^3.8.1",
     "@types/cors": "^2.8.12",
