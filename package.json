@@ -1,0 +1,30 @@
+{
+  "name": "felixdusengimana-electr-power-backend",
+  "version": "1.0.0",
+  "description": "1. Clone this project\r 2. After run `npm intall or npm i`\r 3. For running tests run command `npm test`\r 5. For viewing the web page go to: `http://localhost:3000/`",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --timeout 10000",
+    "start": "SET NODE_ENV=dev && nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phelixdusengimana/felixdusengimana-electr-power-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phelixdusengimana/felixdusengimana-electr-power-backend/issues"
+  },
+  "homepage": "https://github.com/phelixdusengimana/felixdusengimana-electr-power-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.2.0"
+  }
+}
